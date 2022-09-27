@@ -1,6 +1,7 @@
 /**
-* Java2 Project
+* Java FX Project
 * Date: 2022-08-13
+* @author Kaloyan Palazov
 * 
 */
 
